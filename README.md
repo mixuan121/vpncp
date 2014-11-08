@@ -24,5 +24,5 @@ Freeradius VPN Control Panel
 	
 最后：<br />
 
-	提问题地方<a href="https://www.cxsir.com/guestbook" alt="Chenxi">晨曦如梦</a><br />
+	提问题地方 https://www.cxsir.com/guestbook
   
