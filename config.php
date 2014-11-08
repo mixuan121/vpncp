@@ -10,7 +10,7 @@ define('MYSQL_PORT', "3306");
 //MYSQL用户名
 define('MYSQL_USER', "freeradius");
 //MYSQL用户密码
-define('MYSQL_PASS', "freeradiuspassword");
+define('MYSQL_PASS', "password");
 //MYSQL数据库
 define('MYSQL_DBNAME', "radius");
 
